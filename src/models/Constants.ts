@@ -1,0 +1,14 @@
+ export const authorConst = "Author: ";
+ export const authorLastNameConst = "Author Last Name: ";
+ export const authorNameConst = "Author Name: ";
+ export const publisherConst = "publisher: ";
+ export const yearOfPublicationConst = "year of publication: ";
+ export const bookConst= "Books";
+ export const moreButtonConst= "More...";
+ export const titleLabelConst= "Book title";
+ export const nameOfPublisherConst = "name of publisher";
+ export const saveButtonConst = "Save";
+ export const deleteButtonConst = "Delete";
+ export const cancelButtonConst = "Cancel";
+ export const addButton = "Add";
+ export const editButton = "Edit";
